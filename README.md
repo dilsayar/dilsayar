@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dilsayar
 - 👀 I’m interested in language and technology.
 - 🌱 I’m currently learning new frontend technologies.
-- 📫 Say hi on [Twitter @dilsayar](https://twitter.com/dilsayar)
+- 📫 Say hi on <a href="https://twitter.com/dilsayar" target="_blank">Twitter @dilsayar</a>
 
 <!---
 dilsayar/dilsayar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
