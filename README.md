@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dilsayar
-- 👀 I’m interested in language and technology.
-- 🌱 I’m currently learning new frontend technologies.
+- 👋 Hi, I’m Hüseyin Demirtaş
+- 👀 I’m interested in language & technology.
+- 🌱 I’m currently exploring frontend & backend technologies.
 - 📫 Say hi on <a href="https://twitter.com/dilsayar" target="_blank">Twitter @dilsayar</a>
 
 <!---
